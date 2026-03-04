@@ -63,22 +63,8 @@ export default {
     const DEFAULT_FALLBACK_PROJECT = "lp-eqk"; 
 
     const allowedDomains = [
-      "brocenter.co.uk",
-      "brocenter.uk",
-      "dalbankeak.co.uk",
-      "getpdfbook.co.uk",
-      "kopyor.co.uk",
-      "kopyor.uk",
-      "kuntrink.co.uk",
-      "kuntrink.uk",
-      "lemper.co.uk",
-      "lemper.org.uk",
-      "smilespirit.co.uk",
+      
       "smilespirit.uk",
-      "shopee-cod.my.id",
-      "cenulmania.my.id",
-      "cantikul.my.id",
-      "kiwil.my.id",
       "router-utama.masbero323.workers.dev"
     ];
 
