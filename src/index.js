@@ -65,7 +65,7 @@ export default {
     const allowedDomains = [
       
       "smilespirit.uk",
-      "cenulmania.my.id,
+      "cenulmania.my.id",
       "router-utama.masbero323.workers.dev"
     ];
 
